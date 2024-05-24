@@ -1,7 +1,7 @@
 ################################################################
 # Indicators of Compromise (IOCs)                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-05-23 16:00:01 +07                        #
+# Last updated: 2024-05-24 16:34:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -536,3 +536,5 @@ correoparaguayoc-py.cc
 py-correoparaguayoz-gov.cc
 ais-pointexchange-th.cc
 correoparaguayoc-gov-py.buzz
+datcth.cc
+s.datcth.cc
