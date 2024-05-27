@@ -1,7 +1,7 @@
 ################################################################
 # Indicators of Compromise (IOCs)                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-05-27 22:32:01 +07                        #
+# Last updated: 2024-05-27 23:21:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -695,3 +695,30 @@ gpost.life
 aisthl.top
 aisthl.shop
 update-crypto.com
+www.maxis-ed.top
+www.globels.top
+www.maxisnen.top
+www.maxisml.top
+www.mobili.top
+www.globewf.top
+www.maxispb.top
+www.globew.top
+www.maxiszzs.top
+www.maxissgr.top
+www.max-isl.top
+www.maxiswb.top
+www.maxissb.top
+www.maxisssa.top
+www.maxisfs.top
+www.maxissl.top
+www.globews.top
+posindonesia-co.cc
+www.maxisgv.top
+www.maxistt.top
+www.maxissst.top
+www.maxisws.top
+www.maxisspr.top
+www.maxisp.top
+www.maxisalo.top
+www.maxisbm.top
+www.maxisgl.top
