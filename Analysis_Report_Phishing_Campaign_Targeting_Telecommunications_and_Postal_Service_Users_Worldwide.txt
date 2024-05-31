@@ -1,7 +1,7 @@
 ################################################################
 # Indicators of Compromise (IOCs)                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-05-28 23:11:01 +07                        #
+# Last updated: 2024-05-31 15:42:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -36,6 +36,7 @@ https://aisthl.shop/bOrOdJ
 91.92.247.174
 94.156.71.31
 192.227.190.172
+91.92.240.184
 
 # Phishing/Scam Domain 
 aisten.top
@@ -728,3 +729,5 @@ gpos-ge.pics
 gpos-ge.cam
 vodacomz.cam
 vodacomz.lol
+ais-th.sbs
+postphl.sbs
