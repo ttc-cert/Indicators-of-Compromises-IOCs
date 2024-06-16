@@ -1,7 +1,7 @@
 ################################################################
 # Indicators of Compromise (IOCs)                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-06-09 16:13:01 +07                        #
+# Last updated: 2024-06-16 09:34:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -780,3 +780,16 @@ postashqiptare-al.cyou
 post-li.icu
 laposte-fr.us
 ep-gov-pkc.cyou
+usps-us-track.top
+pmsa-care.xyz
+za-vodacom.click
+globeph.sbs
+ep-gov-ppk.xyz
+ep-gov-pka.icu
+belpost-by.sbs
+postaba.site
+haypost-am.shop
+pttgov-tr.pw
+flashexpress-th.cc
+splonline-sa.fun
+gpost-ge.world
